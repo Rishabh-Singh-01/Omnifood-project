@@ -4,6 +4,9 @@ Omnifood is an AI-powered food subscription that will make you eat healthy again
 
 This imaginary service source code uses HTML5 and CSS3 to create beautifully designed responsive webpage, which also includes modern flexbox & CSS grid with a little bit of garnishing of vanilla JS on top.
 
+Please Visit:
+https://omnifood-rish.netlify.app/
+
 ////////////////////////
 
 Please Note:
