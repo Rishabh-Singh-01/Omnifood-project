@@ -1,3 +1,5 @@
+console.log("Welcome to the Application!");
+
 ///////////////////////////////////////////////////////////
 // Set current year
 const yearEl = document.querySelector(".year");
